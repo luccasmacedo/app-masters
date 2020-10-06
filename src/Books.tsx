@@ -13,7 +13,7 @@ function Books(props: any) {
         display: "flex"
     };
 
-    let books = require("./books.js");
+    let books = require("./booksArray.js");
 
     //Solicita o nome da pessoa que realiza o emprestimo do livro
     function inputUserName(book: any) {
