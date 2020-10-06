@@ -1,0 +1,11 @@
+Header {
+    color: "white";
+    outline: "currentcolor none medium";
+    padding: "10px";
+    font-family: "Poppins";
+    line-height: "1.2em";
+    font-size: "40px";
+    justify-content: "center";
+    align-Items: "center";
+    display: "flex";
+}
