@@ -4,7 +4,11 @@ Este projeto faz parte do processo de estágio da [App Masters](https://appmaste
 
 ## Para rodar o projeto
 
-1. Abra a pasta do projeto no Visual Studio
+1. Clone o resositório
+```bash
+gh repo clone luccasmacedo/app-masters
+```
+2. Abra o projeto no seu editor
 
 2. Instale as dependências
 ```bash
